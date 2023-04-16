@@ -1,0 +1,9 @@
+[22-Nov-2017 19:33:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/webtesla/public_html/dh/application/views/Admin/rpt_tax.php on line 107
+[03-Dec-2017 17:12:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/webtesla/public_html/dh/application/libraries/tcpdf/tcpdf.php on line 14451
+[03-Dec-2017 17:13:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/webtesla/public_html/dh/application/libraries/tcpdf/tcpdf.php on line 5930
+[03-Dec-2017 17:13:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/webtesla/public_html/dh/application/libraries/tcpdf/tcpdf.php on line 13326
+[03-Dec-2017 17:13:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/webtesla/public_html/dh/application/libraries/tcpdf/tcpdf.php on line 19725
+[03-Dec-2017 17:15:06 UTC] PHP Warning:  Unterminated comment starting line 21724 in /home/webtesla/public_html/dh/application/libraries/tcpdf/tcpdf.php on line 21724
+[03-Dec-2017 17:15:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/webtesla/public_html/dh/application/libraries/tcpdf/tcpdf.php on line 21725
+[02-Oct-2018 10:32:08 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/webtesla/public_html/www.deyhardware.com/application/views/Admin/rpt_tax.php on line 78
+[02-Oct-2018 10:36:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/webtesla/public_html/www.deyhardware.com/application/controllers/Admin.php on line 1055

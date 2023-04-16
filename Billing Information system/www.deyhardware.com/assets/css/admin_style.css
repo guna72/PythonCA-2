@@ -1,0 +1,107 @@
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+
+/* Start Of Header part*/
+.bill_header{
+	background-color: #014365;
+	padding: 10px;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+.bill_header h4{
+	color: #fff;
+}
+.bill_header img{
+	width: 70px;
+	height: 70px;
+}
+/*Differ Category Part*/
+.bill_category {
+	margin:0px 10px;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+.bill_category ul{
+	list-style: none;
+}
+.bill_category li{
+	float: left;
+	font-size: 16px;
+	color: #fff;
+}
+.bill_category ul li input{
+	display: block ;
+	text-decoration: none;
+	color: #fff;
+	background-color: #014365;
+	padding: 4px 20px;
+	border:1px solid #fff; 
+}
+.bill_category input:hover{
+	background-color: #76CEBE;
+}
+/*End Of header section*/
+
+
+
+/* Start Of Dashboard Part*/
+.dashboard{
+	margin-top: 30px;
+	font-family: "Times New Roman", Georgia, Serif;
+	margin-left: 10px;
+	margin-right: 10px;
+	/*background-color: #EFE58C;*/
+}
+.dashboard legend{
+	color: #014365;
+}
+.dashboard h6{
+	color: red;
+}
+label,p{
+	font-size: 16px !important;
+	color:#044709;
+}
+label span{
+	color: red;
+}
+.submit{
+	display: none;
+}
+.to,.to_text{
+	display: none;
+}
+/*Personal table in customer details*/
+.per_table,.invoice_table{
+	font-size: 14px;
+	margin-top: 50px;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+.per_table th,.invoice_table th{
+	color: green;
+}
+.per_table h4,.invoice_table h4{
+	font-weight: 700;
+}
+/*End Of Dashboard*/
+
+/*For hints show section*/
+.hints_list li:hover{
+  background-color: #ff9;
+}
+/*End of Hints Show Section*/
+
+
+
+/*Start Of Footer Section*/
+.footer{
+	background-color: #014365;
+	padding: 11px;
+	text-align: center;
+	color: #fff !important;
+	font-family: "Times New Roman",Georgia,Serif;
+}
